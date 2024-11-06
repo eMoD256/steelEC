@@ -19,7 +19,7 @@ The data is imbalanced, one of the classes is over represented. We accounted for
 ### Clone the repository
 
 ```
-pip install -r requirements.txt
+git clone https://github.com/eMoD256/steelEC.git
 ```
 
 ### Install dependencies
